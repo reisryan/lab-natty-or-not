@@ -12,7 +12,7 @@ O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo 
 ## 🚀 Resultados
 O vídeo é um trecho de Osama Bin Laden pronunciando algumas poucas palavras.
 
-[LINK PARA O VÍDEO AQUI](https://github.com/reisryan/lab-natty-or-not/osamabr.mp4)
+[LINK PARA O VÍDEO AQUI]([https://github.com/reisryan/lab-natty-or-not/osamabr.mp](https://github.com/reisryan/lab-natty-or-not/blob/main/osamabr.mp4)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em montar deepfakes, utilizando as IAs Generativas para criar um breve vídeo audiovisual.
