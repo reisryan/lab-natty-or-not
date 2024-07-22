@@ -11,5 +11,5 @@ Procurei a ferramenta adequada, a foto de Osama Bin Laden e inseri o texto que d
 
 ## 🚀 Resultados
 
-- [Vídeo (Avatar Virtual)](osamabr.mp4)
+- [Vídeo (Avatar Virtual)](exemplos/VIDEO.md)
 
